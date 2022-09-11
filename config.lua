@@ -64,7 +64,15 @@ Config.ELSFiles = {
     "scas10.xml",
     "SHERIFF2.xml",
     "RIOT.xml",
-    "POLICEB.xml",
+    "POLICEB1.xml",
+    "akut1.xml",
+    "ambulance1,xml",
+    "ambulance2.xml",
+    "BB2018U.xml",
+    "CS2018AKS.xml",
+    "DC2016U.xml",
+    "NGTR2017U.xml",
+    "VXC902017P.xml",
 }
 
 -- Whether indicators should be enabled or not. (Controlled with Left & Right arrows by default)
